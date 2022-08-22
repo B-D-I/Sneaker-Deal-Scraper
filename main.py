@@ -68,5 +68,3 @@ def get_name_from_url(url):
     site_url_name = site_url_name[1]
     return site_url_name
 
-
-sneakers_n_stuff()
